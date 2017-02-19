@@ -10,8 +10,8 @@
 
 <script>
     import Content from './Content.vue';
-    import Header from './Header.vue';
-    import Footer from './Footer.vue';
+    import Header from './Shared/Header.vue';
+    import Footer from './Shared/Footer.vue';
     export default {
         components: {
             'my-header': Header,
